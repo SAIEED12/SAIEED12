@@ -53,13 +53,22 @@ I enjoy turning ideas into real-world projects and continuously improving my dev
 
 ---
 
-## 🛠️ Skills
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,js,python,react,nextjs,nodejs,express,mysql,tailwind,sass" />
+### 🛠 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,js,html,tailwind" />
 </p>
 
----
+### 💻 Frontend & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
+
+### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
 
 ## 📊 GitHub Stats
 
