@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/4556cfbc-2962-4e9a-81d3-c22492f8e039" width="100%" />
 
-<h1 align="center">Hi 👋, I'm MD. Abu Saieed</h1>
+<h1 align="center">Hi 👋, I'm MD. ABU SAIEED</h1>
 <h3 align="center">🚀 Full-Stack Developer in Progress | MERN Stack | React & Next.js Enthusiast</h3>
 
 <p align="center">
